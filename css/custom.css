@@ -1,0 +1,23 @@
+.axis path {
+    fill: none;
+    stroke-width: 0;
+    stroke: black;
+}
+
+.axis .minor line {
+    stroke: #777;
+    stroke-dasharray: 2,2;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    font-size: 13px;
+    padding: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    background: white;
+    border-radius: 8px;
+    pointer-events: none;
+}
