@@ -3,6 +3,12 @@
 .form-group.pull-left {
     padding-right: 1em;
 }
+
+.footer {
+    background-color: #ecf0f1;
+    border-top: 2px solid #dce4ec;
+    margin-top: 2em;
+    padding-top: 1em;
 }
 
 /* Visualization */
