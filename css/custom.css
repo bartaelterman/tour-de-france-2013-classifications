@@ -1,8 +1,8 @@
 /* Custom overrides */
 
-label {
-    padding-left: 0.3em;
-    padding-right: 0.3em;
+.form-group.pull-left {
+    padding-right: 1em;
+}
 }
 
 /* Visualization */
