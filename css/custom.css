@@ -1,3 +1,11 @@
+/* Custom overrides */
+
+label {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+
+/* Visualization */
 .axis path {
     fill: none;
     stroke-width: 0;
